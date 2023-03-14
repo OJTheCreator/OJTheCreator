@@ -1,6 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)]
+ <!--[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)]-->
 
-<h3 align="center">Hello, My an James Chizoba Ogbu, a talented and experienced data analyst/scientist who is passionate about using data to uncover insights and solve complex problems. i possesses a diverse skill set that includes data analysis, machine learning, and data visualization. I'm adept at using programming languages such as Python, and SQL to extract, manipulate, and analyze data, and has extensive experience working with a variety of data tools and technologies such a Tableau.</h3>
+Hello, My an James Chizoba Ogbu, a talented and experienced data analyst/scientist who is passionate about using data to uncover insights and solve complex problems. i possesses a diverse skill set that includes data analysis, machine learning, and data visualization. I'm adept at using programming languages such as Python, and SQL to extract, manipulate, and analyze data, and has extensive experience working with a variety of data tools and technologies.
+
+
+</h3>
 <img align="right" alt="Chart" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif"
 
 
