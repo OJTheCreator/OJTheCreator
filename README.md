@@ -28,6 +28,5 @@ Hello, My an James, a talented and experienced data analyst/scientist who is pas
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesogbu&show_icons=true&locale=en&layout=compact" alt="jamesogbu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesogbu&show_icons=true&locale=en" alt="jamesogbu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesogbu&" alt="jamesogbu" /></p>
