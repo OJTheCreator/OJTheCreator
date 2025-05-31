@@ -18,11 +18,6 @@ I'm proficient in Python and SQL for extracting, manipulating, and analyzing dat
   </a>
 </p>
 
----
-
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
