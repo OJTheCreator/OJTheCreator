@@ -86,11 +86,7 @@ I build, test, and ship AI tools — from training models to wiring them into au
 
 ### Daily Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake.svg" width="98%" />
-</picture>
+<img src="https://ghchart.rshah.org/00D4FF/OJTheCreator" alt="OJ's GitHub contribution graph" width="98%" />
 
 <br/><br/>
 
