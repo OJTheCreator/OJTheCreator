@@ -1,85 +1,101 @@
-<!--[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)]-->
+<div align="center">
 
-<h3>Hello, my name is James</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=James%20Ogbu&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-A data analyst/scientist passionate about using data to uncover insights and solve complex problems.  
-I possess a diverse skill set including data analysis, machine learning, and data visualization.  
-I'm proficient in Python and SQL for extracting, manipulating, and analyzing data, with extensive experience using modern tools and frameworks.
+<a href="https://github.com/OJTheCreator">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=From+data+to+intelligence.;Python+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+Pipelines;Building+AI+systems+that+ship." alt="intro" />
+</a>
 
-<img align="right" alt="Chart" width="400" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" />
+<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=OJTheCreator&label=Profile%20views&color=095ce1&style=flat" alt="profile views" />
-</p>
+<img src="https://img.shields.io/badge/-Open%20to%20collaborations-00D4FF?style=flat-square&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/-Based%20in%20Nigeria-203A43?style=flat-square&labelColor=0D1117" />
 
-<p align="left">
-  <a href="https://twitter.com/jamez_chi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/jamez_chi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+</div>
 
+<br/>
 
----
+<table align="center" border="0">
+<tr>
+<td width="58%" valign="top">
 
-### Connect with Me
+```yaml
+name:    James Ogbu
+role:    Data Scientist · AI Developer
+focus:   ML · LLMs · generative AI · data pipelines
+stack:   Python · PyTorch · SQL · Pandas
+origin:  started as a data analyst — kept building
+```
 
-<p align="left">
-  <a href="https://twitter.com/jamez_chi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/james-ogbu-930367146" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@ogbujameschizoba" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/mroptimus8351" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-  </a>
-</p>
+</td>
+<td width="42%" valign="top">
 
----
+I work across the data and AI stack — from training and fine-tuning models to wiring them into pipelines and tools that actually ship. Started in analytics, grew into building.
 
-### Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tableau_Logo.svg" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
----
+</td>
+</tr>
+</table>
 
-### GitHub Stats
+<br/>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OJTheCreator&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OJTheCreator&" alt="GitHub Streak" />
-</p>
+### Stack
 
----
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql,postgres,sqlite,bash,git,github,vscode,linux&perline=12" />
 
-### GitHub Trophies
+<br/>
 
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=OJTheCreator&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A27A?style=for-the-badge&logo=anthropic&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Activity
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OJTheCreator&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OJTheCreator&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=OJTheCreator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OJTheCreator&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true" width="98%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Connect
+
+<a href="https://twitter.com/jamez_chi"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://linkedin.com/in/james-ogbu-930367146"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@ogbujameschizoba"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.youtube.com/c/mroptimus8351"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
+
+</div>
