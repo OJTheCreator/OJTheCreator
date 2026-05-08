@@ -69,24 +69,6 @@ I build, test, and ship AI tools — from training models to wiring them into au
 
 <div align="center">
 
-### Activity
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OJTheCreator&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=OJTheCreator&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OJTheCreator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OJTheCreator&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&hide_border=true&area=true" width="98%" />
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### Connect
 
