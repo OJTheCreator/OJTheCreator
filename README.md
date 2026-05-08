@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=James%20Ogbu&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=OJ&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/OJTheCreator">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=From+data+to+intelligence.;Python+%E2%80%A2+ML+%E2%80%A2+LLMs+%E2%80%A2+Pipelines;Building+AI+systems+that+ship." alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=I+build+and+test+AI+tools.;Automation+systems+%E2%80%A2+ML+%E2%80%A2+LLMs.;Turning+models+into+working+software." alt="intro" />
 </a>
 
 <br/>
@@ -21,17 +21,18 @@
 <td width="58%" valign="top">
 
 ```yaml
-name:    James Ogbu
+name:    OJ
 role:    Data Scientist · AI Developer
-focus:   ML · LLMs · generative AI · data pipelines
-stack:   Python · PyTorch · SQL · Pandas
+work:    building & testing AI tools
+         + AI-powered automation systems
+stack:   Python · PyTorch · LLMs · SQL
 origin:  started as a data analyst — kept building
 ```
 
 </td>
 <td width="42%" valign="top">
 
-I work across the data and AI stack — from training and fine-tuning models to wiring them into pipelines and tools that actually ship. Started in analytics, grew into building.
+I build, test, and ship AI tools — from training models to wiring them into automation systems that actually do work end-to-end. Started in analytics, grew into building.
 
 </td>
 </tr>
@@ -57,8 +58,8 @@ I work across the data and AI stack — from training and fine-tuning models to 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-D4A27A?style=for-the-badge&logo=anthropic&logoColor=black" />
 <br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
@@ -76,6 +77,20 @@ I work across the data and AI stack — from training and fine-tuning models to 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=OJTheCreator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="170" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Daily Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/OJTheCreator/OJTheCreator/output/github-contribution-grid-snake.svg" width="98%" />
+</picture>
 
 <br/><br/>
 
